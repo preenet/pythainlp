@@ -90,7 +90,7 @@ setup(
             "orchid_pt_tagger.pkl",
             "person_names_female_th.txt",
             "person_names_male_th.txt",
-            "sentenceseg-crfcut-v2.model",
+            "datasets-crf4.model",
             "stopwords_th.txt",
             "syllables_th.txt",
             "tha-wn.db",
